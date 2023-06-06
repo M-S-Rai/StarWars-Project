@@ -1,1 +1,2 @@
-# StarWars-Project
+# Star Wars API Data Fetch and MongoDB Operations
+This repository contains two Python scripts for interacting with Star Wars data. The first script fetches and saves starship data from the Star Wars API (SWAPI). The second script retrieves the ObjectID and name of each character from a MongoDB database. This information can be used to create references in the starship documents, linking starships to their respective characters.
